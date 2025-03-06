@@ -6,3 +6,5 @@ ipykernel
 datasets
 tokenizers
 huggingface_hub
+accelerate>=0.26.0
+peft
